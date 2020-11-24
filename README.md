@@ -1,5 +1,5 @@
 # Parallel
-To play the Game: https://sharemygame.com/@Genghast/parallel (issues known: some performance problems and few bugs)
+To play the Game: https://simmer.io/@Genghast/parallel (issues known: some performance problems and few bugs)
 
 Descripton:
 
